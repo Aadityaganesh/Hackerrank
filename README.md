@@ -6,5 +6,4 @@ To run any solution locally:
 
 **Clone the repository:**
 
-    ```python
     git clone https://github.com/yourusername/hackerrank-problem-solving.git
